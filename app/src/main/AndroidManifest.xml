@@ -12,7 +12,6 @@
         <activity android:name=".tugasMain"></activity>
         <activity android:name=".kegiatanMain" />
         <activity android:name=".berandaMain" />
-        <activity android:name=".datangMain" />
         <activity android:name=".regisMain" />
         <activity android:name=".MainActivity">
             <intent-filter>
